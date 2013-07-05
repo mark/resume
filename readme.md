@@ -1,5 +1,5 @@
-# Mark Josef  ![Photo](headshot-100x100.png)
----
+# ![Photo](headshot-100x100.png) Mark Josef
+
 **email** [mcphage+resume@gmail.com](mailto:mcphage+resume@gmail.com)
 
 **twitter** [@1ofyourmeteors](http://twitter.com/1ofyourmeteors)
