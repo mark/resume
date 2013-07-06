@@ -7,7 +7,7 @@
 **github** [mark](http://www.github.com/mark)
 
 * Representative work:
-	* [Code katas](http://github.com/mark/katas)
+	* [Code katas](http://github.com/mark/katas) - *see branch "mark_solutions"*
 	* [string_formatter gem](http://github.com/mark/string_formatter)
 	* [friendly date library](http://github.com/mark/friendly_date)
 
@@ -25,10 +25,9 @@ Brief paragraph describing the kind of things I've done, what I like, what I do.
 
 ## Technical Skills
 
-**Languages** Ruby **||** Javascript **||** Java **||** Actionscript **||**
-Objective-C **||** SQL **||** Coffeescript
+**Languages** Ruby, Javascript, Java, Actionscript, Objective-C, SQL, Coffeescript
 
-**Technologies**  Postgres **||** Mysql **||** Haml **||** Sass **||** git **||** svn
+**Technologies**  Postgres, Mysql, Haml, Sass, git, svn
 
 ## Experiences
 
