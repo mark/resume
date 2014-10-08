@@ -7,10 +7,10 @@
 **github** [mark](http://www.github.com/mark)
 
 * Representative work:
-	* [Code katas](http://github.com/mark/katas) - *see branch "mark_solutions"*
+  * [Code katas](http://github.com/mark/katas) - *see branch "mark_solutions"*
   * [shard gem](https://github.com/mark/shard) - gem for running code shared via gists.
   * [easyrb gem](https://github.com/mark/easyrb) - gem for convenient ERB templates outside of Rails projects.
-	* [string_formatter gem](http://github.com/mark/string_formatter) - gem for custom sprintf-style format strings methods.
+  * [string_formatter gem](http://github.com/mark/string_formatter) - gem for custom sprintf-style format strings methods.
   * [mark's monkeypatches](https://github.com/mark/marks_monkeypatches) - library of well-tested helper methods.
   * [Proof Machine](https://github.com/mark/proof_machine) - library for propositional logic using ruby.
   * [split_block](https://github.com/mark/split_block) - exploring using Fibers to do something otherwise impossible.
