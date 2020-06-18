@@ -6,7 +6,7 @@
 
 **github** [mark](http://www.github.com/mark)
 
-* Representative work:
+* Representative Ruby work:
   * [Code katas](http://github.com/mark/katas) - *see branch "mark_solutions"*
   * [shard gem](https://github.com/mark/shard) - gem for running code shared via gists.
   * [easyrb gem](https://github.com/mark/easyrb) - gem for convenient ERB templates outside of Rails projects.
