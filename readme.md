@@ -1,84 +1,71 @@
-# ![Photo](headshot-100x100.png) Mark Josef
+# Mark Josef
 
 ## Senior Staff Engineer
 
-I'm a software developer with over 20 years of experience.  I am an expert in financial transaction enrichment, and complex data ETLs.  I have worked with complex microservice environments and large monorails.  I am experienced with working efficiently with Big Data datasets.  I have successfully managed both Ruby and Scala teams, mentored the engineers under me, architected multiple projects, and coordinated multi-department initiatives.  I am living in Buffalo, New York.
+A Software Architect with over 20 years of experience, who has successfully managed both Ruby and Scala teams, mentored junior and senior engineers, architected multiple projects, and coordinated multi-department initiatives.  An expert in financial transaction enrichment, and complex data ETLs.  Experienced with everything from complex microservice environments to large monolithic applications, as well as in working with Big Data datasets.
+
+Living in Buffalo, New York.  Open to remote work.
 
 **phone** (716) 860-4089
 
-**email** [mcphage+resume@gmail.com](mailto:mcphage+resume@gmail.com)
+**email** [mcphage@gmail.com](mailto:mcphage+resume@gmail.com)
 
-**x / twitter** [@1ofyourmeteors](http://twitter.com/1ofyourmeteors)
+**X / Twitter** [@1ofyourmeteors](http://twitter.com/1ofyourmeteors)
 
-**github** [mark](http://www.github.com/mark)
+**GitHub** [mark](http://www.github.com/mark)
 
-## Technologies
+**LinkedIn** [Mark Josef](https://www.linkedin.com/in/mark-josef/)
+
+## Skills
 
 **Languages** Ruby, Scala, Java, Javascript, Typescript, Python
 
-**Data** Postgres, MySql, DynamoDB, Spanner DB, Redis, Kinesis, Athena
+**Data** Postgres, MySql, DynamoDB, Spanner, Redis, Kinesis, Athena
 
-**Tools** git, Jira, DataDog, Honeycomb
-
-**Data Science** Scikit-Learns, Numpy, Pandas, Pytorch
+**Data Science** Numpy, Pandas, Pytorch
 
 **Environments** AWS, Kubernetes
 
+**Tools** git, Jira, DataDog, Honeycomb
+
 ## Experience
 
-### Jack Henry & Associates
+### Jack Henry
 #### Senior Staff Software Engineering :: *2/2023 — 7/2024*
-* Designed and organized a multiyear initiative with more than 10 independent sub-projects.
-* Coordinated with multiple stakeholders in multiple departments
-* Built off of licensed merchant database
-* Coordinated with multiple external vendors to integrate with their APIs and evaluate their results.
-* Achieved accuracy comparable to external vendors who would cost > $3 million per year for our load.
-* Runs in the cloud using Postgres, Redis for an equivalent cost of < $10,000 per year, scalable to hundreds of millions of transactions per second.
-* Directly lead to signing new clients who were not satisfied with our previous enrichment offering.
-* On-the-fly update to our financial transaction data model, to handle complex enrichments from multiple sources.
-* Required updating multiple critical microservices, designed to be rolled out piece-by-piece rather than requiring an entire switchover.
+* Executed a multiyear financial transaction enrichment initiative with more than 10 independent sub-projects.
+    * Achieved >85% accuracy on transaction enrichment, on par with external vendors costing over $3 million per year for current transaction volume.
+    * Ran in the cloud using Postgres, Redis for an equivalent cost of < $10,000 per year, scalable to hundreds of millions of transactions per month.
+    * Interfaced with 3 external vendor APIs to evaluate and compare results.
+    * Directly lead to signing >100,000 user new client who was not satisfied with previous enrichment offering.
+* Executed significant update to financial transaction data model, performing seamless change to a data model that stores over 500,000,000 transactions per month.
+    * Updated 6+ critical microservices, able roll out one service at a time rather than requiring an entire switchover.
+    * Enforced greater data consistency and allowed answering previously impossible client questions.
+    * Translated data model from Amazon DynamoDB table to Google Spanner, replacing 5+ years of monthly DynamoDB tables with 2 transaction Spanner tables.
 
 #### Manager, Software Engineering :: *5/2021 — 2/2023*
 #### Senior Manager, Software Engineering :: *6/2020 — 5/2021*
-* Managed a Rails team and a Scala team through difficult organizational changes.
-* Took an underperforming team and turned it around, leading them to release significant projects on time.
-* Mentored both junior and senior programmers.
+* Managed up to 10 engineers and contractors on both a Rails and a Scala simultaneously, through difficult organizational changes, with low staff turnover.
+* Took an underperforming team and turned it around, leading them to release organizationally significant projects on time and in budget.
 
 #### Software Engineer, Senior Advisory :: *2/2016 — 6/2020*
-* Refactored integration with significant external vendor, reducing bugs, removing service dependencies, and making the code simpler to understand and work with.
-* Worked with mutliple banks as a technical liaison to resolve integration issues.
-* Implemented SSO for a new partner spec.
-* Architected multiple microservices, implemented in Scala, Javascript, and Typescript.
+* Refactored integration with important external vendor: eliminated source of common support requests, removing service dependencies, and making the code simpler to understand and work with, while saving >$2,500 per month.
+* Interfaced with 10+ client banks as a technical liaison to resolve integration issues, including implementing custom SSO spec to satisfy new business needs.
+* Architected and implemented 5+ microservices in Scala, Javascript, and Typescript.
 
-### Liaison International / Academic Software Plus
+### Liaison International
 #### Platform Architect :: *10/2008 – 11/2013*
-* Designed and developed an ETL to manage student data with a major focus on speed and efficiency, improving student ETL speed from ~30 seconds to ~0.2 seconds.
-* Designed and developed an application for PT students & instructors to enable student evaluation.
-* Revamped and rewrote identity and permissions system for flagship product to make authorization clearer and faster.
+* Developed an ETL to manage student data with a major focus on speed and efficiency, improving student ETL speed from ~30 seconds to ~0.2 seconds, written in an entirely test-first manner.
+* Engineered an application used by >1,000 PT students & instructors to enable student evaluation.
 
 ### Division by Zero, LLC
-#### Partner :: *3/2006 – 2/2016*
-* Developed an intranet application for medically qualifying firefighters
-* Developed an intranet application for managing a staffing agency.
-* Developed software for entering & printing home inspection examinations.
-* Created systems for scheduling office staff and on-site medical exams, calculating payroll, entering feedback reviews and calculating ratings based on various criteria.
-* Created subsystem for scheduling employee interviews and meetings.
-* Created a Flash tool for creating music album covers.
-* Created an advanced Flash framework for database-driven puzzle games.
-* Implemented a Rights/Roles system for standardizing user authorization.
-
-### Surplus Stock Enterprises, Inc.
-#### System Architect / Lead Developer :: *5/2006 – 9/2008*
-* Designed and built a large e-commerce web application for selling industrial surplus.
-* Created advanced metadata system for classifying and describing all industrial surplus.
-* Developed search engine that allows complex searching, filtering and sorting based on item metadata.
-* Created subsystem for allowing clients to use the site for internal inventory management, and allow sales staff to manage their sales leads, and monitor purchases.
-* Developed tools for keeping track of finances, sales, and generating invoices.
+#### Partner :: *5/2006 – 2/2016*
+* Developed client projects, including an application for medically qualifying firefighters, an application for managing a staffing agency, and a software for performing & printing home inspection examinations, each used by 10-100+ people.
+* Created systems for scheduling office staff and on-site medical exams, calculating payroll, entering feedback reviews and calculating ratings based on dynamic criteria.
+* Designed and built a large e-commerce web application for selling industrial surplus, creating advanced metadata system for classifying and describing tools and equipment, and implementing search engine that allows complex searching, filtering and sorting based on item metadata.
 
 ### Medical Records Online, Inc.
 #### Software Developer :: *12/2004 – 5/2006*
-* Developed a web application for tracking users' medical records, and providing emergency access to medical personnel.
-* Created tools for utilizing the ICD-10 medical classification system.
+* Built web application for tracking users' medical records, and providing emergency access to medical personnel.
 
 ## Education
 
